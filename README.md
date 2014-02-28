@@ -1,7 +1,7 @@
 amqp-wakanda
 ============
 
-wakanda-amqp is an AMQP client for wakanda (based on the [node-amqp module]).
+amqp-wakanda is an AMQP client for wakanda (based on the [node-amqp module]).
 
 Installation
 ============
