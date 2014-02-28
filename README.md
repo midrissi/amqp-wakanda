@@ -17,7 +17,7 @@ Example
 ============
 
 ```javascript
-var amqp = require('amqp');
+var amqp = require('amqp-wakanda');
 
 var connection = amqp.createConnection();
 
@@ -36,7 +36,7 @@ connection.on('ready', function () {
   });
 });
 
-wait()
+wait();
 ```
 
 Remarks
